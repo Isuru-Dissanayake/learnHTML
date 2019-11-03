@@ -56,11 +56,6 @@ a:hover{
         text-align: right !important;
     }
 }
-.red_back{
-    height: 75%;
-    width: 100%;
-    background-size: cover ! important;
-}
 
 #red_back_pos{
     margin: 120px 0px 0px 0px;
@@ -83,4 +78,28 @@ a:hover{
 }
 #topic_pos{
     margin: 20px 0px 0px 0px;
+}
+
+#math_text{
+    color: red;
+    font-size: 100px;
+    line-height: 1.5em;
+}
+.robot_pos{
+    margin: 30px 0px 0px 0px;
+    height: 400px;
+    width: 100%;
+    background-size: cover ! important;
+}
+.foot_pos{
+    margin: 0px 0px 0px 0px;
+    height: 100px;
+    width: 100%;
+    background-size: cover ! important;
+}
+
+.foot_text{
+    margin: 15px 20px 0px 0px;
+    color: white;
+    font-size: 20px;
 }
