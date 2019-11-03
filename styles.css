@@ -56,3 +56,31 @@ a:hover{
         text-align: right !important;
     }
 }
+.red_back{
+    height: 75%;
+    width: 100%;
+    background-size: cover ! important;
+}
+
+#red_back_pos{
+    margin: 120px 0px 0px 0px;
+    padding: 0;
+}
+
+#white_text{
+    margin: 20px 0px 0px 0px;
+    color: white ! important;
+}
+
+.field_topics{
+    color: red;
+    font-size: 24px
+}
+.field_discription{
+    margin: 15px 0px 0px 0px;
+    color: black;
+    font-size: 18px
+}
+#topic_pos{
+    margin: 20px 0px 0px 0px;
+}
